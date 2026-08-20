@@ -1,0 +1,13 @@
+export const WIDTH = 400
+export const HEIGHT = 600
+export const GROUND_H = 96
+export const BIRD_X = 90
+export const BIRD_R = 14
+export const GRAVITY = 1800
+export const FLAP = -420
+export const PIPE_W = 62
+export const PIPE_GAP = 150
+export const PIPE_SPEED = 160
+export const PIPE_EVERY = 1.45
+export const MAX_FALL = 620
+export const BEST_KEY = 'flappy-best'
